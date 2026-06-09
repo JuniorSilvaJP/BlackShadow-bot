@@ -1,0 +1,2 @@
+# BlackShadow-bot
+bot recrutador
